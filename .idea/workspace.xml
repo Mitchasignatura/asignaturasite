@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bb754c5-e011-4576-a849-758ca3bb3b5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\ross\PycharmProjects\nikola\mynewsite\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aReMOgSc4R9YsxLSk8VRr4GCma" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bb754c5-e011-4576-a849-758ca3bb3b5f" name="Default Changelist" comment="" />
+      <created>1586702784381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586702784381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="516" y="192" key="CommitChangelistDialog2" timestamp="1586703003959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="516" y="192" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586703003959" />
+    <state x="641" y="351" key="FileChooserDialogImpl" timestamp="1586703551582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="641" y="351" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586703551582" />
+    <state x="731" y="489" key="Github.ShareDialog" timestamp="1586702845416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="489" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586702845416" />
+    <state x="651" y="301" key="Github.UntrackedFilesDialog" timestamp="1586702902636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="651" y="301" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586702902636" />
+    <state x="362" y="238" key="SettingsEditor" timestamp="1586702806848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="238" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586702806848" />
+    <state x="453" y="329" key="Vcs.Push.Dialog.v2" timestamp="1586702942662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="329" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586702942662" />
+    <state x="168" y="0" width="1427" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1586703553929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="168" y="0" width="1427" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586703553929" />
+    <state x="659" y="460" key="git4idea.rebase.GitRebaseDialog" timestamp="1586702960937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="659" y="460" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586702960937" />
+    <state x="640" y="490" key="git4idea.ui.GitResetDialog" timestamp="1586702982898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="490" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586702982898" />
+  </component>
+</project>
