@@ -7,46 +7,74 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://mitchasignatura.github.io/</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/2020/</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/archive.html</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/blog/</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/blog/ailments-of-the-circulatory-system/</loc>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/blog/collective-and-abstract-nouns/</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/blog/famous-scientists/</loc>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/blog/figures-of-speech/</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/blog/forms-of-literature/</loc>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/blog/fragments-and-sentences/</loc>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/blog/kinds-of-sentences/</loc>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/blog/the-circulatory-system/</loc>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/blog/what-is-science/</loc>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/categories/</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/categories/cat_english/</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/categories/cat_science/</loc>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/categories/english/</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
  </url>
  <url>
-  <loc>https://mitchasignatura.github.io/galleries/</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://mitchasignatura.github.io/listings/</loc>
-  <lastmod>2020-04-12T16:06:00Z</lastmod>
+  <loc>https://mitchasignatura.github.io/categories/science/</loc>
+  <lastmod>2020-04-13T09:47:00Z</lastmod>
  </url>
 </urlset>
