@@ -1,0 +1,4 @@
+Sitemap: https://mitchasignatura.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: mitchasignatura.github.io
