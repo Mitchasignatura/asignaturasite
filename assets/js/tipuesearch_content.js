@@ -1,6 +1,12 @@
 var tipuesearch = {
   "pages": [
     {
+      "title": "Forms of Literature",
+      "text": "FORMS OF LITERATURE\nA.  Fictions -- refers to literature where characters and events have not really happened in real life, but have been created by the imagination\nExamples:\n\n\nLam-Ang and His Magic Pets\n\n\nThe Little Princess\n\n\nThe Legend of the Pineapple\n\n\nThe Lion and the Mouse\n\n\nRumplestiltskin\n\n\nB.  Non-fiction -- a literature which is true to life, based on facts places characters and events which have really happened\nExamples:\n\n\nThe Life Story of Andres Bonifacio\n\n\nHow to Make a Paper Airplane\n\n\nThe Life Cycle of a Butterfly\n\n\nThe Origin of the First Man and Woman\n\n\nThe First Philippine Republic",
+      "tags": "English",
+      "url": "https://mitchasignatura.github.io/blog/forms-of-literature/"
+    },
+    {
       "title": "Figures of Speech",
       "text": "A. Simile -- a figure of speech comparing two unlike this.\nComparison is shown by the words like or as.\nExamples:\n\nHer skin is like a velvety soft rose of petals.\nHot chocolate on cold, raining days is as comforting as a mother's\nhug\n\nB. Metaphor -- a figure of speech in which a word or phrase\nliterally denoting one kind of object or idea is used in a place of\nanother to suggest a likeness between them\nExamples:\n\nA friend's smile is a ray of sunlight on a cloudy day.\nLife is a fragile gift that must be handled with care.\n\nC. Personification -- a figure of speech, which gives human\nattributes or qualities to inanimate objects.\nExamples:\n\nThe sun and the moon constantly play hide-and seek and never manage\nto catch each other.\nThe wind brushes its soft lips upon my cheeks.\n\nD. Hyperbole -- a figure of speech which is a statement of\nextravagant exaggeration\nExamples\nOur ancestors get covered with soot from head to toe just trying to cook\nrice on their clay stoves.\nE. Irony -- a statement that expresses something other than or\nopposite of the literal meaning.\nExamples\nLife is now so convenient that we cannot have a moment to rest.",
       "tags": "English",
