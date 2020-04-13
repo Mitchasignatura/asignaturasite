@@ -9,15 +9,17 @@
 .. type: text
 -->
 
-**KINDS OF SENTENCES**
+
+KINDS OF SENTENCES
+
+                
+
 
 1.  Declarative Sentence -- states fact, an opinion, a wish or an intent and ends with a period
 
+    a.  Books is magical, it carries me to places while seating on my couch.
 
-
-a.  Books is magical, it carries me to places while seating on my couch.
-
-b.  Take care of book and value them.
+    b.  Take care of book and value them.
 
 
 
@@ -25,9 +27,9 @@ b.  Take care of book and value them.
 
 
 
-a.  Are you a book lover too?
+    a.  Are you a book lover too?
 
-b.  What kind of books do you like to read?
+    b.  What kind of books do you like to read?
 
 
 
@@ -35,9 +37,9 @@ b.  What kind of books do you like to read?
 
 
 
-a.  Treat your books like friends.
+    a.  Treat your books like friends.
 
-b.  Could you return this book to the library?
+    b.  Could you return this book to the library?
 
 
 
@@ -45,7 +47,6 @@ b.  Could you return this book to the library?
 
 
 
-a.  It is like having your own time machine except that books are safer and cheaper!
+    a.  It is like having your own time machine except that books are safer and cheaper!
 
-b.  Wow! What a great book this is!
-
+    b.  Wow! What a great book this is!
