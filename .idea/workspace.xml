@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bb754c5-e011-4576-a849-758ca3bb3b5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/posts/fragments-and-sentences.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.doit.db.bak" beforeDir="false" afterPath="$PROJECT_DIR$/.doit.db.bak" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.doit.db.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.doit.db.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.doit.db.dir" beforeDir="false" afterPath="$PROJECT_DIR$/.doit.db.dir" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/fragments-and-sentences.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -38,10 +37,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/posts/famous-scientists.html">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="323">
+                <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/output/images/banner.thumbnail.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/images/banner.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/images/image1.thumbnail.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="38" selection-start-line="2" selection-start-column="14" selection-end-line="3" selection-end-column="38" />
+            <state relative-caret-position="115">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -68,11 +94,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/posts/figures-of-speech.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/banner.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -82,7 +103,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>GITHU</find>
+      <find>Science</find>
+      <find>D:\Users\MITCH\PycharmProjects\mitchasignatura.github.io</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,6 +123,9 @@
       <list>
         <option value="$PROJECT_DIR$/posts/forms-of-literature.md" />
         <option value="$PROJECT_DIR$/posts/fragments-and-sentences.md" />
+        <option value="$PROJECT_DIR$/pages/index.html" />
+        <option value="$PROJECT_DIR$/posts/famous-scientists.md" />
+        <option value="$PROJECT_DIR$/posts/famous-scientists.html" />
       </list>
     </option>
   </component>
@@ -132,7 +161,12 @@
             <path>
               <item name="mitchasignatura.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="mitchasignatura.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mitchasignatura.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mitchasignatura.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mitchasignatura.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -155,6 +189,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\MITCH\PycharmProjects\mitchasignatura.github.io\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -186,13 +225,20 @@
       <option name="project" value="LOCAL" />
       <updated>1586751352335</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added fragments and sentences">
+      <created>1586755007376</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586755007376</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22944693" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22944693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -203,7 +249,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.6188341" visible="true" weight="0.4852941" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.6188341" visible="true" weight="0.19934641" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38116592" side_tool="true" weight="0.43954247" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49925262" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -213,7 +259,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added forms of literature" />
-    <option name="LAST_COMMIT_MESSAGE" value="added forms of literature" />
+    <MESSAGE value="added fragments and sentences" />
+    <option name="LAST_COMMIT_MESSAGE" value="added fragments and sentences" />
   </component>
   <component name="WindowStateProjectService">
     <state x="516" y="192" key="CommitChangelistDialog2" />
@@ -236,18 +283,8 @@
     <state x="640" y="490" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="38" selection-start-line="2" selection-start-column="14" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/posts/figures-of-speech.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/banner.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/posts/collective-and-abstract-nouns.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -282,6 +319,35 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banner.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/famous-scientists.html">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/banner.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/image1.thumbnail.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/images/banner.thumbnail.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
