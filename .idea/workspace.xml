@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bb754c5-e011-4576-a849-758ca3bb3b5f" name="Default Changelist" comment="corrected link of subjects">
-      <change afterPath="$PROJECT_DIR$/posts/ailments-of-the-circulatory-system.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.doit.db.bak" beforeDir="false" afterPath="$PROJECT_DIR$/.doit.db.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.doit.db.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.doit.db.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.doit.db.dir" beforeDir="false" afterPath="$PROJECT_DIR$/.doit.db.dir" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8bb754c5-e011-4576-a849-758ca3bb3b5f" name="Default Changelist" comment="corrected link of subjects" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,18 +10,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/posts/fragments-and-sentences.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="177">
-                <caret line="32" selection-start-line="32" selection-end-line="32" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/famous-scientists.html">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -88,12 +70,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/ailments-of-the-circulatory-system.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="403">
                 <caret line="66" selection-start-line="66" selection-end-line="66" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/posts/kinds-of-sentences.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="85">
+                <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -137,6 +131,7 @@
         <option value="$PROJECT_DIR$/posts/what-is-science.md" />
         <option value="$PROJECT_DIR$/posts/the-circulatory-system.md" />
         <option value="$PROJECT_DIR$/posts/ailments-of-the-circulatory-system.md" />
+        <option value="$PROJECT_DIR$/posts/kinds-of-sentences.md" />
       </list>
     </option>
   </component>
@@ -278,13 +273,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586759251910</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added Ailments of the Circulatory System post">
+      <created>1586759809707</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586759809707</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22944693" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22944693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -295,8 +298,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.6188341" visible="true" weight="0.19934641" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38116592" side_tool="true" weight="0.43954247" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.6180867" visible="true" weight="0.19934641" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3819133" side_tool="true" visible="true" weight="0.19934641" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49925262" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -311,7 +314,8 @@
     <MESSAGE value="added famous scientists images" />
     <MESSAGE value="added What is Science? post" />
     <MESSAGE value="added The Circulatory System post" />
-    <option name="LAST_COMMIT_MESSAGE" value="added The Circulatory System post" />
+    <MESSAGE value="added Ailments of the Circulatory System post" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Ailments of the Circulatory System post" />
   </component>
   <component name="WindowStateProjectService">
     <state x="516" y="192" key="CommitChangelistDialog2" />
@@ -425,6 +429,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="403">
             <caret line="66" selection-start-line="66" selection-end-line="66" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/kinds-of-sentences.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
