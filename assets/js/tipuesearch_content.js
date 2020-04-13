@@ -1,6 +1,12 @@
 var tipuesearch = {
   "pages": [
     {
+      "title": "What is Science?",
+      "text": "What is Science?\nScience is a search for knowledge or truth. It is a systematized body of knowledge based on facts and pieces of evidence through experimentation and observation\nBranches of science\nA.  Physical science --are the study of nonliving matter. Some of the physical sciences that fall under this category are:\n\n\nChemistry -- deals with the study of the composition, structure, form, and chemical properties of matter\n\n\nPhysics -- deals with the study of matter and energy including light, sound, electricity, magnetism, radiation and motion\n\n\nB.  Earth sciences -- deals with the scientific study of earth\n\n\nGeology -- this branch of science involves the study of the origin, history, evolution, and structure of the earth's crust\n\n\nPaleontology -- this is the scientific study if prehistoric life, based mainly on fossils if animals and plants\n\n\nMeteorology -- this is the study of the atmosphere that focuses on weather processes and forecasting\n\n\nSeismology -- this is the study of earthquakes and the movement of waves through the Earth\n\n\nastronomy-- this is the study of celestial bodies, such as stars, comets, planets, and galaxies, and phenomena, that originate outside the earth's atmosphere, such as cosmic background radiation\n\n\nC.  Life sciences -- deal with the study of living organisms.\n\n\nBiology -- this deals with the study if living things.\n\n\nBotany - this deals with the study if plants.\n\n\nZoology - this deals with the study if animals---their firm and structure.\n\n\nEcology -- this deals with the study of the relationship of living organism with each other and their interaction with their surroundings.\n\nGenetics -- this deals with the study of the genetic makeup of living organisms.",
+      "tags": "Science",
+      "url": "https://mitchasignatura.github.io/blog/what-is-science/"
+    },
+    {
       "title": "Famous Scientists",
       "text": "",
       "tags": "Science",
