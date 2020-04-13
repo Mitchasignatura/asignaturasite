@@ -1,6 +1,12 @@
 var tipuesearch = {
   "pages": [
     {
+      "title": "Famous Scientists",
+      "text": "",
+      "tags": "Science",
+      "url": "https://mitchasignatura.github.io/blog/famous-scientists/"
+    },
+    {
       "title": "Fragments and Sentences",
       "text": "Fragments and Sentences\nFragments are words or group of words that do not express a complete thought because either lack a subject or a predicate.\nExamples;\n\n\nPlayful sound of children\n\n\nCoarse and gritty grains of sands\n\n\nTaste and smell around me as I work and play\n\n\nSentences are group of words consists of a subject and a predicate, expresses a complete thought and is properly punctuated at the end.\nExamples;\n\n\nThere are sights and sounds that go while others stay.\n\n\nBallad music is so pleasant to hear.\n\n\nIf you pay attention, you will even hear swirling of the leaves.",
       "tags": "English",

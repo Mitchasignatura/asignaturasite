@@ -15,15 +15,19 @@
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/archive.html</loc>
-  <lastmod>2020-04-13T05:12:00Z</lastmod>
+  <lastmod>2020-04-13T05:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/blog/</loc>
-  <lastmod>2020-04-13T05:12:00Z</lastmod>
+  <lastmod>2020-04-13T05:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/blog/collective-and-abstract-nouns/</loc>
   <lastmod>2020-04-13T03:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/blog/famous-scientists/</loc>
+  <lastmod>2020-04-13T05:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/blog/figures-of-speech/</loc>
@@ -39,14 +43,22 @@
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/categories/</loc>
-  <lastmod>2020-04-13T03:26:00Z</lastmod>
+  <lastmod>2020-04-13T05:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/categories/cat_english/</loc>
   <lastmod>2020-04-13T03:26:00Z</lastmod>
  </url>
  <url>
+  <loc>https://mitchasignatura.github.io/categories/cat_science/</loc>
+  <lastmod>2020-04-13T05:29:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://mitchasignatura.github.io/categories/english/</loc>
   <lastmod>2020-04-13T03:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/categories/science/</loc>
+  <lastmod>2020-04-13T05:29:00Z</lastmod>
  </url>
 </urlset>
