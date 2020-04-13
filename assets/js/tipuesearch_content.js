@@ -1,6 +1,12 @@
 var tipuesearch = {
   "pages": [
     {
+      "title": "Fragments and Sentences",
+      "text": "Fragments and Sentences\nFragments are words or group of words that do not express a complete thought because either lack a subject or a predicate.\nExamples;\n\n\nPlayful sound of children\n\n\nCoarse and gritty grains of sands\n\n\nTaste and smell around me as I work and play\n\n\nSentences are group of words consists of a subject and a predicate, expresses a complete thought and is properly punctuated at the end.\nExamples;\n\n\nThere are sights and sounds that go while others stay.\n\n\nBallad music is so pleasant to hear.\n\n\nIf you pay attention, you will even hear swirling of the leaves.",
+      "tags": "English",
+      "url": "https://mitchasignatura.github.io/blog/fragments-and-sentences/"
+    },
+    {
       "title": "Forms of Literature",
       "text": "FORMS OF LITERATURE\nA.  Fictions -- refers to literature where characters and events have not really happened in real life, but have been created by the imagination\nExamples:\n\n\nLam-Ang and His Magic Pets\n\n\nThe Little Princess\n\n\nThe Legend of the Pineapple\n\n\nThe Lion and the Mouse\n\n\nRumplestiltskin\n\n\nB.  Non-fiction -- a literature which is true to life, based on facts places characters and events which have really happened\nExamples:\n\n\nThe Life Story of Andres Bonifacio\n\n\nHow to Make a Paper Airplane\n\n\nThe Life Cycle of a Butterfly\n\n\nThe Origin of the First Man and Woman\n\n\nThe First Philippine Republic",
       "tags": "English",
