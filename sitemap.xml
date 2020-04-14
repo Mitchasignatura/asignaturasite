@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://mitchasignatura.github.io/</loc>
-  <lastmod>2020-04-13T03:26:00Z</lastmod>
+  <lastmod>2020-04-14T06:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/2020/</loc>
@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/archive.html</loc>
-  <lastmod>2020-04-13T06:45:00Z</lastmod>
+  <lastmod>2020-04-14T06:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/blog/</loc>
-  <lastmod>2020-04-13T06:45:00Z</lastmod>
+  <lastmod>2020-04-14T06:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/blog/ailments-of-the-circulatory-system/</loc>
@@ -48,6 +48,10 @@
  <url>
   <loc>https://mitchasignatura.github.io/blog/kinds-of-sentences/</loc>
   <lastmod>2020-04-13T06:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mitchasignatura.github.io/blog/parts-of-a-book/</loc>
+  <lastmod>2020-04-14T06:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://mitchasignatura.github.io/blog/the-circulatory-system/</loc>

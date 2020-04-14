@@ -1,6 +1,12 @@
 var tipuesearch = {
   "pages": [
     {
+      "title": "Parts of a Book",
+      "text": "A book is divided into three major parts.\nIntroductory part\n\n\nCover page -- tells the reader what the book is about, the protective part of the book\n\n\nTitle page -- the first printed page of the book which repeats the details found at the cover\n\n\nCopyright page -- includes important publication details such as the date and place of publication and the name of the publisher\n\n\nTable of Contents -- contains the outline of the topics according to each units and their corresponding pages\n\n\nPreface of Foreword -- gives the reader an overview of the book and tells you what to expect from it\n\n\nBody of the Book\n\n\nUnit headings -- introduces the theme of the unit and gives the reader an idea what the focus of the unit will be\n\n\nLessons -- the main text of body of the book. It is the most important part of the book where concepts will be discussed and skills will be developed\n\n\nSupplementary Part\n\n\nGlossary -- listing of difficult words encountered in the book with their meanings\n\n\nIndex -- alphabetical listing of all the topics found in the book\n\n\nAppendix -- a section after the text containing additional information which could be helpful to the reader\n\n\nBibliography -- a listing of reference materials or sources used by the author in the completion of the book",
+      "tags": "English",
+      "url": "https://mitchasignatura.github.io/blog/parts-of-a-book/"
+    },
+    {
       "title": "Kinds of Sentences",
       "text": "KINDS OF SENTENCES\n\nDeclarative Sentence -- states fact, an opinion, a wish or an intent and ends with a period\n\na.  Books is magical, it carries me to places while seating on my couch.\nb.  Take care of book and value them.\n\nInterrogative sentence -- asks questions and ends with a question mark\n\na.  Are you a book lover too?\nb.  What kind of books do you like to read?\n\nImperative sentence -- expresses a command or a request and ends with either a period or a question mark.\n\na.  Treat your books like friends.\nb.  Could you return this book to the library?\n\nExclamatory sentence -- expresses a strong or sudden emotions and ends with an exclamation point\n\na.  It is like having your own time machine except that books are safer and cheaper!\nb.  Wow! What a great book this is!",
       "tags": "English",
