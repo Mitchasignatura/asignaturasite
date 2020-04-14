@@ -57,12 +57,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/posts/parts-of-a-book.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="22">
+              <first_editor relative-caret-position="185">
                 <caret line="40" selection-start-line="40" selection-end-line="40" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/posts/ready-references.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="284">
+                <caret line="19" selection-start-line="19" selection-end-line="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -119,6 +131,7 @@
         <option value="$PROJECT_DIR$/posts/the-circulatory-system.md" />
         <option value="$PROJECT_DIR$/posts/ailments-of-the-circulatory-system.md" />
         <option value="$PROJECT_DIR$/posts/kinds-of-sentences.md" />
+        <option value="$PROJECT_DIR$/posts/ready-references.md" />
       </list>
     </option>
   </component>
@@ -159,7 +172,7 @@
             <path>
               <item name="mitchasignatura.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="mitchasignatura.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,7 +299,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49850523" weight="0.67156863" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.6143498" visible="true" weight="0.8643791" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.6143498" visible="true" weight="0.39379084" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38565022" side_tool="true" weight="0.27287582" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49925262" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -378,13 +391,7 @@
     <entry file="file://$PROJECT_DIR$/output/images/banner.thumbnail.png" />
     <entry file="file://$PROJECT_DIR$/output/images/banner.png" />
     <entry file="file://$PROJECT_DIR$/output/images/image1.thumbnail.png" />
-    <entry file="file://$PROJECT_DIR$/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt" />
     <entry file="file://$PROJECT_DIR$/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -438,8 +445,18 @@
     <entry file="file://$PROJECT_DIR$/posts/parts-of-a-book.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="22">
+          <first_editor relative-caret-position="185">
             <caret line="40" selection-start-line="40" selection-end-line="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/ready-references.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="284">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
           </first_editor>
           <second_editor />
         </state>
