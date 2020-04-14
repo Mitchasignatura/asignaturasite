@@ -1,6 +1,12 @@
 var tipuesearch = {
   "pages": [
     {
+      "title": "Ready References",
+      "text": "Types of Books\n\nEncyclopedia -- set of books, which contains information on all branches of knowledge or comprehensively treats a particular branch of knowledge and is alphabetically arranged by subject.\nAtlas -- a bound collection of maps often including illustrations, information tables or textual matter regarding a country's population, climate, and products\nAlmanac -- an annual publication containing statistical, tabular and general information mostly about people, places and events which are remarkable or important\nDictionary -- a book containing word alphabetically arranged along with information about their forms, pronunciation, functions, etymologies and meanings\nThesaurus -- a book of words or information about a particular field; especially a book of words and their synonyms and antonyms",
+      "tags": "English",
+      "url": "https://mitchasignatura.github.io/blog/ready-references/"
+    },
+    {
       "title": "Parts of a Book",
       "text": "A book is divided into three major parts.\nIntroductory part\n\n\nCover page -- tells the reader what the book is about, the protective part of the book\n\n\nTitle page -- the first printed page of the book which repeats the details found at the cover\n\n\nCopyright page -- includes important publication details such as the date and place of publication and the name of the publisher\n\n\nTable of Contents -- contains the outline of the topics according to each units and their corresponding pages\n\n\nPreface of Foreword -- gives the reader an overview of the book and tells you what to expect from it\n\n\nBody of the Book\n\n\nUnit headings -- introduces the theme of the unit and gives the reader an idea what the focus of the unit will be\n\n\nLessons -- the main text of body of the book. It is the most important part of the book where concepts will be discussed and skills will be developed\n\n\nSupplementary Part\n\n\nGlossary -- listing of difficult words encountered in the book with their meanings\n\n\nIndex -- alphabetical listing of all the topics found in the book\n\n\nAppendix -- a section after the text containing additional information which could be helpful to the reader\n\n\nBibliography -- a listing of reference materials or sources used by the author in the completion of the book",
       "tags": "English",
